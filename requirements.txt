@@ -1,0 +1,10 @@
+# The North Face e-commerce — Bloc 3 (NLP / Recommender system)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+nltk
+jupyter
+ipykernel
