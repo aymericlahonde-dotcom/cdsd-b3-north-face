@@ -5,6 +5,9 @@ matplotlib
 seaborn
 scikit-learn
 wordcloud
-nltk
+spacy
 jupyter
 ipykernel
+
+# spaCy English model (used for lemmatization), install with:
+#   python -m spacy download en_core_web_sm
